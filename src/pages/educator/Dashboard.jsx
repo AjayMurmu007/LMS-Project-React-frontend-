@@ -77,7 +77,7 @@ const Dashboard = () => {
                         <img
                           src={item.student.imageUrl}
                           alt=""
-                          className="w-9 h-9 rounded-full"
+                          className="w-9 h-9 rounded-full object-cover"
                         />
                         <span className="truncate">{item.student.name}</span>
                       </td>

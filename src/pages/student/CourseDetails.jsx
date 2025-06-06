@@ -196,9 +196,9 @@ const CourseDetails = () => {
                 <YouTube
                   videoId={playerData.videoId}
                   opts={{
-                    // width: "100%",
-                    // height: "200",
-                    iframeClassName: "w-full aspect-video",
+                    width: "100%",
+                    height: "300",
+                    // iframeClassName: "w-full aspect-video ",
                     playerVars: {
                       autoplay: 1, // Auto-play the video
                     },

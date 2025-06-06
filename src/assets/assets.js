@@ -93,8 +93,8 @@ export const assets = {
 
 export const dummyEducatorData = {
     "_id": "675ac1512100b91a6d9b8b24",
-    "name": "GreatStack",
-    "email": "user.greatstack@gmail.com",
+    "name": "Ajay",
+    "email": "user.Ajay@gmail.com",
     "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18yclFkaDBOMmFqWnBoTTRBOXZUanZxVlo0aXYifQ",
     "createdAt": "2024-12-12T10:56:17.930Z",
     "updatedAt": "2024-12-12T10:56:17.930Z",
@@ -132,40 +132,40 @@ export const dummyDashboardData = {
             "courseTitle": "Introduction to JavaScript",
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-                "name": "Great Stack",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+                "name": "Ajay",
+                "imageUrl": "https://images.unsplash.com/photo-1659353215553-044993dcdd39?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         },
         {
             "courseTitle": "Advanced Python Programming",
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-                "name": "Great Stack",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+                "name": "Ajay",
+                "imageUrl": "https://images.unsplash.com/photo-1659353222273-95d67009f712?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         },
         {
             "courseTitle": "Web Development Bootcamp",
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-                "name": "Great Stack",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+                "name": "Ajay",
+                "imageUrl": "https://images.unsplash.com/photo-1659353215553-044993dcdd39?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         },
         {
             "courseTitle": "Data Science with Python",
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-                "name": "Great Stack",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+                "name": "Ajay",
+                "imageUrl": "https://images.unsplash.com/photo-1659353222273-95d67009f712?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         },
         {
             "courseTitle": "Cybersecurity Basics",
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-                "name": "Great Stack",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+                "name": "Ajay",
+                "imageUrl": "https://images.unsplash.com/photo-1659353215553-044993dcdd39?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         }
     ],
@@ -176,8 +176,8 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
-            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+            "name": "Ajay",
+            "imageUrl": "https://images.unsplash.com/photo-1659353222273-95d67009f712?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         "courseTitle": "Introduction to JavaScript",
         "purchaseDate": "2024-12-20T08:39:55.509Z"
@@ -185,8 +185,8 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
-            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+            "name": "Ajay",
+            "imageUrl": "https://images.unsplash.com/photo-1659353215553-044993dcdd39?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         "courseTitle": "Introduction to JavaScript",
         "purchaseDate": "2024-12-20T08:59:49.964Z"
@@ -194,8 +194,8 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
-            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+            "name": "Ajay",
+            "imageUrl": "https://images.unsplash.com/photo-1659353215553-044993dcdd39?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         "courseTitle": "Advanced Python Programming",
         "purchaseDate": "2024-12-20T11:03:42.931Z"
@@ -203,8 +203,8 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
-            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
+            "name": "Ajay",
+            "imageUrl": "https://images.unsplash.com/photo-1659353222273-95d67009f712?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         "courseTitle": "Web Development Bootcamp",
         "purchaseDate": "2024-12-20T11:04:48.798Z"
@@ -229,7 +229,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "What is JavaScript?",
                         "lectureDuration": 16,
-                        "lectureUrl": "https://youtu.be/CBWnBi-awSA",
+                        "lectureUrl": "https://youtu.be/tpojyw8OYQI?si=9OtgmAcIiteKcgPs",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -252,7 +252,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Understanding Variables",
                         "lectureDuration": 20,
-                        "lectureUrl": "https://youtu.be/pZQeBJsGoDQ",
+                        "lectureUrl": "https://youtu.be/7xStNKTM3bE?si=o0z8HovaBGDyOB93",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -302,7 +302,7 @@ export const dummyCourses = [
                         "lectureId": " lecture1",
                         "lectureTitle": "Lists and Tuples",
                         "lectureDuration": 720,
-                        "lectureUrl": "https://youtu.be/HdLIMoQkXFA",
+                        "lectureUrl": "https://youtu.be/gOMW_n2-2Mw?si=Vx6yGZgl2jNh-IIl",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -310,7 +310,7 @@ export const dummyCourses = [
                         "lectureId": "lecture2",
                         "lectureTitle": "Dictionaries and Sets",
                         "lectureDuration": 850,
-                        "lectureUrl": "https://youtu.be/HdLIMoQkXFA",
+                        "lectureUrl": "https://www.youtube.com/watch?v=zdVdqTLk8O0",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -325,7 +325,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Classes and Objects",
                         "lectureDuration": 900,
-                        "lectureUrl": "https://youtu.be/HdLIMoQkXFA",
+                        "lectureUrl": "https://youtu.be/Znmz_WxMxp4?si=gc1wG9JlXsylibi3",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -374,7 +374,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "What is Cybersecurity?",
                         "lectureDuration": 10,
-                        "lectureUrl": "https://youtu.be/samplelink5",
+                        "lectureUrl": "https://youtu.be/zYLkdT731x8?si=PlWg2-YD9mXICBvs",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -382,7 +382,7 @@ export const dummyCourses = [
                         "lectureId": "lecture2",
                         "lectureTitle": "Types of Cyber Threats",
                         "lectureDuration": 18,
-                        "lectureUrl": "https://youtu.be/samplelink6",
+                        "lectureUrl": "https://www.youtube.com/watch?v=Dk-ZqQ-bfy4",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -397,7 +397,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Password Management",
                         "lectureDuration": 15,
-                        "lectureUrl": "https://youtu.be/samplelink7",
+                        "lectureUrl": "https://youtu.be/xiaZrtUc3rc?si=OwNuYxUPd4KLq54c",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -405,7 +405,7 @@ export const dummyCourses = [
                         "lectureId": "lecture4",
                         "lectureTitle": "Network Security Essentials",
                         "lectureDuration": 20,
-                        "lectureUrl": "https://youtu.be/samplelink8",
+                        "lectureUrl": "https://www.youtube.com/watch?v=aRbKFCY4tjE",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -440,7 +440,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "Introduction to HTML",
                         "lectureDuration": 600,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/E3ByCRqE7Lo?si=1O8pOlW_M_3KjJzC",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -448,7 +448,7 @@ export const dummyCourses = [
                         "lectureId": "lecture2",
                         "lectureTitle": "Styling with CSS",
                         "lectureDuration": 720,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://www.youtube.com/watch?v=E3ByCRqE7Lo&t=28s",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -463,7 +463,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "JavaScript Basics",
                         "lectureDuration": 800,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/32DLasxoOiM?si=0iEhU5E6jY_na7wG",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -471,7 +471,7 @@ export const dummyCourses = [
                         "lectureId": "lecture4",
                         "lectureTitle": "DOM Manipulation",
                         "lectureDuration": 850,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://www.youtube.com/watch?v=WjxQRfZfZnw",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -506,7 +506,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "What is Cloud Computing?",
                         "lectureDuration": 600,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/mxT233EdY5c?si=rhLo9qR8n4C1pUYv",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -514,7 +514,7 @@ export const dummyCourses = [
                         "lectureId": "lecture2",
                         "lectureTitle": "Cloud Service Models",
                         "lectureDuration": 720,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://www.youtube.com/watch?v=RWgW-CgdIk0",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -529,7 +529,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "AWS Basics",
                         "lectureDuration": 800,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/3XFODda6YXo?si=0BfnbbpnwWttNBRA",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -537,7 +537,7 @@ export const dummyCourses = [
                         "lectureId": "lecture4",
                         "lectureTitle": "Introduction to Google Cloud",
                         "lectureDuration": 850,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://www.youtube.com/watch?v=RWgW-CgdIk0",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -571,7 +571,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "Python Basics",
                         "lectureDuration": 30,
-                        "lectureUrl": "https://youtu.be/samplelink1",
+                        "lectureUrl": "https://youtu.be/K5KVEU3aaeQ?si=q9Kp3HlRd9BDorfn",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -594,7 +594,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Introduction to Matplotlib",
                         "lectureDuration": 20,
-                        "lectureUrl": "https://youtu.be/samplelink3",
+                        "lectureUrl": "https://youtu.be/wIEt2CLfgEE?si=SqLJucwb0DapP8X0",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -644,7 +644,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "What is Data Science?",
                         "lectureDuration": 600,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/RBSUwFGa6Fk?si=tFL-RH-QHbJVObTG",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -667,7 +667,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Supervised vs Unsupervised Learning",
                         "lectureDuration": 800,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/9gGnTQTYNaE?si=3nVGhVwJ5_XMpUak",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -709,7 +709,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "Introduction to Cybersecurity",
                         "lectureDuration": 700,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/_DVVNOGYtmU?si=NNKcritDGnBUn4k0",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -732,7 +732,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Securing Networks",
                         "lectureDuration": 800,
-                        "lectureUrl": "https://youtu.be/-HeadgoqJ7A",
+                        "lectureUrl": "https://youtu.be/NIRXtMg-0z8?si=XZDzLUKuKgcVr7m6",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
